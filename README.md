@@ -23,7 +23,7 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/datastructblues/datastructblues/blob/main/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
 
  ## Technologies I Use
- <img src = 'https://github.com/simple-icons/simple-icons/blob/develop/icons/intellijidea.svg' width='30'/> <img src = 'https://github.com/simple-icons/simple-icons/blob/develop/icons/eclipseide.svg' width ='30'/> <img src = 'https://github.com/simple-icons/simple-icons/blob/develop/icons/androidstudio.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+ <img src = 'https://github.com/simple-icons/simple-icons/blob/develop/icons/intellijidea.svg' width='30'/> <img src = 'https://github.com/simple-icons/simple-icons/blob/develop/icons/eclipseide.svg' width ='30'/> <img src = 'https://github.com/simple-icons/simple-icons/blob/develop/icons/androidstudio.svg' width='30'/> <img src = 'https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg' width='30'/>
 
 
 
