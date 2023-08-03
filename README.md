@@ -27,8 +27,7 @@
 
 
 
-## Current Works
- * I'm currently learning android development.
+
 
 
 
