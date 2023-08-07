@@ -26,13 +26,6 @@
  <img src = 'https://github.com/simple-icons/simple-icons/blob/develop/icons/intellijidea.svg' width='30'/> <img src = 'https://github.com/simple-icons/simple-icons/blob/develop/icons/firebase.svg' width ='30'/> <img src = 'https://github.com/simple-icons/simple-icons/blob/develop/icons/androidstudio.svg' width='30'/> <img src = 'https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg' width='30'/>
 
 
-
-
-
-
-
-![datastructblues' github stats](https://github-readme-stats.vercel.app/api?username=datastructblues&show_icons=true&hide=[%22issues%22])
-
 -:octocat: thanks to [@MarikIshtar007](https://github.com/MarikIshtar007) for this template 
  
  
